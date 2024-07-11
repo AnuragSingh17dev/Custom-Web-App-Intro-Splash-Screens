@@ -1,1 +1,1 @@
-# Kitchen-Management-App-Splash-Screens
+# Kitchen Management App Splash Screens
