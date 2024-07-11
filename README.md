@@ -1,1 +1,1 @@
-# Announcement-App-Splash-Screen-Template
+# Kitchen-Management-App-Splash-Screens
