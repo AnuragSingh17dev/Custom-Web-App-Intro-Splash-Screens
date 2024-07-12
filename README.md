@@ -1,1 +1,1 @@
-This repository contains a set of modules used to create splash screens for a kitchen management app.
+This repository contains a set of modules used to create introduction splash screens for custom web apps.
